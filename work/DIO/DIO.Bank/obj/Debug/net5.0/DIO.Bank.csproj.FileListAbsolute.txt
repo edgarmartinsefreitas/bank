@@ -1,0 +1,16 @@
+E:\DigitalInnovation\Criando uma aplicação de transferências bancárias\work\DIO\DIO.Bank\bin\Debug\net5.0\DIO.Bank.exe
+E:\DigitalInnovation\Criando uma aplicação de transferências bancárias\work\DIO\DIO.Bank\bin\Debug\net5.0\DIO.Bank.deps.json
+E:\DigitalInnovation\Criando uma aplicação de transferências bancárias\work\DIO\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.json
+E:\DigitalInnovation\Criando uma aplicação de transferências bancárias\work\DIO\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.dev.json
+E:\DigitalInnovation\Criando uma aplicação de transferências bancárias\work\DIO\DIO.Bank\bin\Debug\net5.0\DIO.Bank.dll
+E:\DigitalInnovation\Criando uma aplicação de transferências bancárias\work\DIO\DIO.Bank\bin\Debug\net5.0\ref\DIO.Bank.dll
+E:\DigitalInnovation\Criando uma aplicação de transferências bancárias\work\DIO\DIO.Bank\bin\Debug\net5.0\DIO.Bank.pdb
+E:\DigitalInnovation\Criando uma aplicação de transferências bancárias\work\DIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csprojAssemblyReference.cache
+E:\DigitalInnovation\Criando uma aplicação de transferências bancárias\work\DIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+E:\DigitalInnovation\Criando uma aplicação de transferências bancárias\work\DIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfoInputs.cache
+E:\DigitalInnovation\Criando uma aplicação de transferências bancárias\work\DIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfo.cs
+E:\DigitalInnovation\Criando uma aplicação de transferências bancárias\work\DIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.CoreCompileInputs.cache
+E:\DigitalInnovation\Criando uma aplicação de transferências bancárias\work\DIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.dll
+E:\DigitalInnovation\Criando uma aplicação de transferências bancárias\work\DIO\DIO.Bank\obj\Debug\net5.0\ref\DIO.Bank.dll
+E:\DigitalInnovation\Criando uma aplicação de transferências bancárias\work\DIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.pdb
+E:\DigitalInnovation\Criando uma aplicação de transferências bancárias\work\DIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.genruntimeconfig.cache
